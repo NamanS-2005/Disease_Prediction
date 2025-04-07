@@ -3,3 +3,6 @@ numpy
 pandas
 streamlit_option_menu
 pickle
+scikit-learn
+seaborn
+matplotlib
